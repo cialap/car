@@ -254,7 +254,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     transition: .3s linear;
 }
 .welcome-btn:hover{
-    background: #0102fa;
+    background: lightgrey;
 }
 /*.welcome-hero-txt*/
 
