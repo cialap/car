@@ -99,7 +99,7 @@ html,body{height: 100%;}
 .owl-carousel {z-index: 0;}
 /* section-header */
 .section-header{
-    position: relative;
+    position: fixed;
     text-align: center;
 }
 .section-header h2{
